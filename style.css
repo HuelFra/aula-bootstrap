@@ -1,0 +1,33 @@
+body{
+ font:20px Arial,sans-serif
+}
+
+
+.navbar {
+    background-color: #1cad1c;
+}
+
+.quem-somos{
+    background-color: rgb(217, 255, 208);
+    color: black;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top:10px;
+}
+
+.parceiros {
+    background-color: rgb(200, 245, 156);
+}
+
+.servicos {
+    background-color: rgb(217, 255, 208);
+}
+
+.bgfooter {
+    background-color: black;
+    color: blanchedalmond;
+    font-size:small;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
